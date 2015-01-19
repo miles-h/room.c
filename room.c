@@ -53,11 +53,11 @@ int main()
 			case '3':
 
 			printf("\nEnter Floor Length(m):\n");
-            scanf("%f",&x);
-            printf("\nEnter Floor Width(m):\n");
-            scanf("%f",&y);
-            printf("\nEnter Room Height(m):\n");
-            scanf("%f",&z);
+			scanf("%f",&x);
+			printf("\nEnter Floor Width(m):\n");
+			scanf("%f",&y);
+			printf("\nEnter Room Height(m):\n");
+			scanf("%f",&z);
 
 			printf("\nEnter coverage of paint(m^2/L) (average = 9.1m^2/L)\n");
 			scanf("%f",&coverage);
